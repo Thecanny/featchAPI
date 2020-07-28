@@ -1,2 +1,3 @@
 # featchAPI
-Estudo de API com Featch
+## Estudo de API com Featch
+---
